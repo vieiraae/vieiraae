@@ -10,11 +10,11 @@ Here are some things that I'm currently working on:
 
 | GitHub Bot with OpenAI   | APIM with OpenAI |
 |--------------|-----------|
-| [<img width="350" src="https://github.com/vieiraae/github-with-openai/raw/main/flow.gif">](https://github.com/vieiraae/github-with-openai) | [<img width="350" src="https://github.com/vieiraae/OpenAIBrainstorming/raw/main/brainstorming-copilot.gif">](https://github.com/vieiraae/OpenAIBrainstorming) |
+| [<img width="390" src="https://github.com/vieiraae/github-with-openai/raw/main/flow.gif">](https://github.com/vieiraae/github-with-openai) | [<img width="390" src="https://github.com/vieiraae/OpenAIBrainstorming/raw/main/brainstorming-copilot.gif">](https://github.com/vieiraae/OpenAIBrainstorming) |
 
 | Image to Image using Azure AI | Excel module using OpenAI |
 |--------------|-----------|
-| [<img width="350" src="https://github.com/vieiraae/image-to-image/raw/main/image-to-image.gif">](https://github.com/vieiraae/image-to-image) | [<img width="350" src="https://github.com/vieiraae/Excel-with-OpenAI/raw/main/images/Excel-with-OpenAI.gif">](https://github.com/vieiraae/Excel-with-OpenAI) |
+| [<img width="390" src="https://github.com/vieiraae/image-to-image/raw/main/image-to-image.gif">](https://github.com/vieiraae/image-to-image) | [<img width="390" src="https://github.com/vieiraae/Excel-with-OpenAI/raw/main/images/Excel-with-OpenAI.gif">](https://github.com/vieiraae/Excel-with-OpenAI) |
 
 
 <!--

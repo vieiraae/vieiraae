@@ -10,7 +10,7 @@ Here are some things that I'm currently working on:
 
 | GitHub Bot with OpenAI   | APIM with OpenAI |
 |--------------|-----------|
-| [<img width="390" src="https://github.com/vieiraae/github-with-openai/raw/main/flow.gif">](https://github.com/vieiraae/github-with-openai) | [<img width="390" src="https://github.com/vieiraae/OpenAIBrainstorming/raw/main/brainstorming-copilot.gif">](https://github.com/vieiraae/OpenAIBrainstorming) |
+| [<img width="390" src="https://github.com/vieiraae/github-with-openai/raw/main/flow.gif">](https://github.com/vieiraae/github-with-openai) | [<img width="390" src="https://github.com/vieiraae/vieiraae/blob/main/media/APIM+AzureOpenAI.gif?raw=true">](https://github.com/Azure/aoai-apim/) |
 
 | Image to Image using Azure AI | Excel module using OpenAI |
 |--------------|-----------|

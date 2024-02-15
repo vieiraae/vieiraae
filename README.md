@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an Azure Tech Specialist with 8+ years at Microsoft. I help customers innovate with Azure and GitHub, using Cloud Native, AI 🧠 and DevOps ♾️. I transform business with smart and fast apps, modernized with .NET/Java and GitHub Copilot. I also integrate apps and services with APIM and Logic Apps.
+I'm a Global Black Belt driving the wave of AI-powered Apps using Cloud Native, Integration Services, DevOps/GitHub and tons of other cool tech!
 Follow me or connect on [LinkedIn](https://www.linkedin.com/in/vieira/).
 
 Here are some things that I'm currently working on:

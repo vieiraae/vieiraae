@@ -4,7 +4,7 @@ I'm a Global Black Belt driving the wave of AI-powered Apps using Cloud Native, 
 Follow me or connect on [LinkedIn](https://www.linkedin.com/in/vieira/).
 
 Here are some things that I'm currently working on:
-| APIM with OpenAI   | OpenAI Brainstorming App     |
+| APIM ♥️ OpenAI   | OpenAI Brainstorming App     |
 |--------------|-----------|
 | [<img width="390" src="https://github.com/vieiraae/vieiraae/blob/main/media/APIM+AzureOpenAI.gif?raw=true">](https://aka.ms/ai-gateway) | [<img width="390" src="https://github.com/vieiraae/OpenAIBrainstorming/raw/main/brainstorming-copilot.gif">](https://github.com/vieiraae/OpenAIBrainstorming) |
 

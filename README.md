@@ -4,13 +4,13 @@ I'm a Global Black Belt driving the wave of AI-powered Apps using Cloud Native, 
 Follow me or connect on [LinkedIn](https://www.linkedin.com/in/vieira/).
 
 Here are some things that I'm currently working on:
-| Zero 2 Hero with GitHub Copilot   | OpenAI Brainstorming App     |
+| APIM with OpenAI   | OpenAI Brainstorming App     |
 |--------------|-----------|
-| [<img width="390" src="https://github.com/vieiraae/vieiraae/blob/main/media/zero2hero.gif?raw=true">](https://github.com/Azure-Samples/zero2hero) | [<img width="390" src="https://github.com/vieiraae/OpenAIBrainstorming/raw/main/brainstorming-copilot.gif">](https://github.com/vieiraae/OpenAIBrainstorming) |
+| [<img width="390" src="https://github.com/vieiraae/vieiraae/blob/main/media/APIM+AzureOpenAI.gif?raw=true">](https://aka.ms/ai-gateway) | [<img width="390" src="https://github.com/vieiraae/OpenAIBrainstorming/raw/main/brainstorming-copilot.gif">](https://github.com/vieiraae/OpenAIBrainstorming) |
 
-| GitHub Bot with OpenAI   | APIM with OpenAI |
+| GitHub Bot with OpenAI   | Zero 2 Hero with GitHub Copilot |
 |--------------|-----------|
-| [<img width="390" src="https://github.com/vieiraae/github-with-openai/raw/main/flow.gif">](https://github.com/vieiraae/github-with-openai) | [<img width="390" src="https://github.com/vieiraae/vieiraae/blob/main/media/APIM+AzureOpenAI.gif?raw=true">](https://github.com/Azure/aoai-apim/) |
+| [<img width="390" src="https://github.com/vieiraae/github-with-openai/raw/main/flow.gif">](https://github.com/vieiraae/github-with-openai) | [<img width="390" src="https://github.com/vieiraae/vieiraae/blob/main/media/zero2hero.gif?raw=true">](https://github.com/Azure-Samples/zero2hero) |
 
 | Image to Image using Azure AI | Excel module using OpenAI |
 |--------------|-----------|
